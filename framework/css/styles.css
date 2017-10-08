@@ -1,0 +1,57 @@
+body{
+    font-family: 'Lato', sans-serif;
+    color: #747704;
+    font-weight: 300;
+
+}
+
+.containter, body{
+    background-color: #F7EEFB
+}
+
+.text-muted{
+    color:#BCBBBB;
+}
+
+.text-thin{
+    font-weight: 100;
+}
+
+.title-super{
+    font-size: 60px;
+}
+
+img.mainphoto{
+    width: 1140;
+    height: 350;
+}
+
+.modal-dialog{
+    width: 200;
+    height: 200;
+}
+
+#modalpic{
+    width: 200;
+    height: 200;
+}
+
+.glogo{
+   position: absolute;
+   text-align: center;
+   right:48%;
+}
+
+.rowImgs {
+  height: 300px !important;
+  align-items: center !important;
+}
+
+.la {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+  height: 300px !important;
+  width: 300px !important
+}
